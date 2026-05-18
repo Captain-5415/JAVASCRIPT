@@ -1,4 +1,5 @@
-// JavaScript Tasks - 50 Questions
+//JAVASCRIPT BASICS - TASK 1
+
 // Topic : Variables + Printing Statements
 
 
