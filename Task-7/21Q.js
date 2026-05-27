@@ -29,7 +29,7 @@ function displayProducts(data){
 
                 <img src="${product.image}" width="100">
                 <h3>${product.title}</h3>
-                <p>₹${product.price}</p>
+                <p>Rs. ${product.price}</p>
 
                 <button onclick="addToCart(${product.id})">
                     Add To Cart
