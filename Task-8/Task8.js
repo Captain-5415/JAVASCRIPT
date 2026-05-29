@@ -406,7 +406,6 @@ let reportInventory = apiData.then(products => {
 
 
 
-
 // Task 30: Complete Admin Dashboard (Interview Level)
 
 let apiLink = "https://fakestoreapi.com/products";
